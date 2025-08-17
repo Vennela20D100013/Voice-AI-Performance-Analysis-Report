@@ -1,0 +1,2 @@
+Excel File,Total Calls,Completed Calls,Completion Rate (%),Mean Duration (mins),Median Duration (mins),P25 (mins),P75 (mins),P95 (mins),Min Duration (mins),Max Duration (mins),Missing Duration (%)
+voice data.xlsx,13609,11769,86.48,1.1353,0.73,0.37,1.52,3.55,0.02,20.03,35.08
